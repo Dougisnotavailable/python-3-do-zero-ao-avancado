@@ -1,0 +1,17 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "notebook.output.textLineLimit": 500,
+    "editor.fontSize": 18,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "explorer.compactFolders": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "python": "cls ; python -u",
+    },
+    "code-runner.ignoreSelection": true,
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "workbench.iconTheme": "material-icon-theme",
+}
