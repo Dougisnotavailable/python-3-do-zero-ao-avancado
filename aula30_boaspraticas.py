@@ -2,7 +2,7 @@
 CONSTANTE = "Variáveis que não vão mudar (capslock)
 Muitas condições no mesmo if (ruim)
 ..... <- contagem de complexidade (ruim)
-Simples é melhor do que complexo (zen)
+Simples é melhor do que complexo ( zen )
 """
 
 velocidade = 61 # velocidade atual do carro
