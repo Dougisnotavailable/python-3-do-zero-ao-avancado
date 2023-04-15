@@ -1,3 +1,2 @@
 # python-3-do-zero-ao-avancado 
-Códigos acompanhando o curso Python do zero ao Avançado do Luiz Otávio Miranda. 2
-22
+Códigos acompanhando o curso Python do zero ao Avançado do Luiz Otávio Miranda. 
